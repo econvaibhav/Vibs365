@@ -10,13 +10,13 @@ GithubUsername: 'econvaibhav'
 ## 🚀 Daily Commit Challenge 🚀
 
 
-[Link to profile](https://github.com/yourUsername) | [Other relevant link](#) | [Another link](#) | [More links](#)
---- | --- | --- | ---
-![Image](https://avatars.githubusercontent.com/yourUsername?s=150&v=1) | ![Image](https://avatars.githubusercontent.com/user?s=150&v=1) | ![Image](https://avatars.githubusercontent.com/user?s=150&v=1) | ![Image](https://avatars.githubusercontent.com/user?s=150&v=1)
+| Day 1 | Day 2 | Day 3 | Day 4 |
+|---|---|---|---|
+| ![Day 1 Image](https://example.com/day1image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 2 Image](https://example.com/day2image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 3 Image](https://example.com/day3image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 4 Image](https://example.com/day4image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. |
+| Day 5 | Day 6 | Day 7 | Day 8 |
+|---|---|---|---|
+| ![Day 5 Image](https://example.com/day5image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 6 Image](https://example.com/day6image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 7 Image](https://example.com/day7image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. | ![Day 8 Image](https://example.com/day8image.jpg) [Profile Link](https://example.com) **Summary:** This is a brief summary of the day's event which should be about 50 words long to fit neatly within the box. |
 
-[Additional profile](https://github.com/username) | [Another profile](#) | [Third profile](#) | [Fourth profile](#)
---- | --- | --- | ---
-![Profile](https://avatars.githubusercontent.com/username?s=150&v=1) | ![Profile](https://avatars.githubusercontent.com/user?s=150&v=1) | ![Profile](https://avatars.githubusercontent.com/user?s=150&v=1) | ![Profile](https://avatars.githubusercontent.com/user?s=150&v=1)
 
 ## 📈 My Daily Commit Graph
 
